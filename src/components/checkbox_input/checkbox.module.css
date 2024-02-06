@@ -1,0 +1,10 @@
+.checkbox {
+    margin-top: 20px;
+}
+
+.checkbox div {
+    display: flex;
+    justify-content: space-between;
+    accent-color: #9ED8DB;
+    margin-top: 20px;
+}

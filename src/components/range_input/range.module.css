@@ -1,0 +1,12 @@
+.range_box {
+    width: 85%;
+    height: 10px;
+    accent-color: #1D3354;
+}
+
+.span_password_length {
+    min-width: 35px;
+    font-size: 18px;
+    position: absolute;
+    right: 25px;
+}

@@ -1,0 +1,30 @@
+.password_box {
+    width: 100%;
+    height: 50px;
+    color: #1D3354;
+    background: #E9FFF9;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+.button_copy {
+    font-size: 25px;
+    border: none;
+    color: #467599;
+    background: none;
+    position: absolute;
+    top: 48px;
+    right: 60px;
+    transition: 0.4s ease-in-out;
+}
+
+.button_copy:hover {
+    cursor: pointer;
+    color: #1D3354;
+    transform: scale(1.2);
+}
